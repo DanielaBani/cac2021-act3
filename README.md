@@ -1,6 +1,5 @@
 # Codo a Codo 2021 - Ejercitación 1
-Ejercitación obligatoria realizada en el curso Java Fullstack del programa Codo a Codo 4.0 (GCBA). <br>
-https://www.buenosaires.gob.ar/educacion/codo-codo
+Ejercitación obligatoria realizada en el curso Java Fullstack del programa [Codo a Codo 4.0 (GCBA).](https://www.buenosaires.gob.ar/educacion/codo-codo)
 
 ## Consigna:
 Ingresá en el siguiente cuadro el código HTML y de Boostrap correspondiente para la creación de una página web que posea el siguiente aspecto:
@@ -12,4 +11,4 @@ Ingresá en el siguiente cuadro el código HTML y de Boostrap correspondiente pa
 
 ## Para visualizarlo:
 * Podés descargar los archivos y abrir index.html con tu navegador
-* Podés ingresar a esta URL: http://www.cursophp.foxit.com.ar/comision2157/daniela%20alejandra%20bani/actividad3/
+* Podés ingresar a este [link](http://www.cursophp.foxit.com.ar/comision2157/daniela%20alejandra%20bani/actividad3/)
